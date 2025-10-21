@@ -1,7 +1,9 @@
 ## Welcome 
 
-#### My name is Mathias Hagewood, a recent Computer Engineering graduate from Tennessee Tech. While at University and across several internships, I have acquired a knack for adapting to new technologies and programs.  
+#### My name is Mathias Hagewood, a recent Computer Engineering graduate from Tennessee Tech. While at University and across several internships, I have acquired a knack for adapting to new technologies and tools.  
 
-#### With a well-rounded knowledge of the building blocks that make real the modern computer system (OSs, databases, networks, object-oriented programming), a more specialized understanding of embedded systems (microcontroller properties, vhdl, C, assembly), and a few random add-ons (python, digital signals, QGIS), I find myself working on a variety of projects. These range from capturing heart-rates using a radar device to simulating analog signals with a raspberry pi pico2 to designing web apps with tools such as Google Apps Studio or Anvil.
+#### I have a solid foundation in the core components of modern computer systems-operating systems, databases, networks, object-oriented programming-as well as a more specialized experience in embedded systems, including microcontrollers, VHDL, C, and assembly. I've also picked up a few extra skills along the way, like Python scripting, digital signal processing, and using tools like QGIS. 
 
-#### Through my account you'll find many of the projects I've worked on. I hope to showcase my abilities but also better organize and catalog the work I've done while providing a place to store future tinkerings. 
+#### My projects reflect this variety: from capturing heart rates with radar sensors and simulating analog signals using a Raspberry Pi Pico, to building web apps with platforms like Google Apps Script and Anvil.
+
+#### This GitHub account serves both as a portfolio to showcase my work and as a space to organize, document, and expand on my ongoing projects and experiments.
